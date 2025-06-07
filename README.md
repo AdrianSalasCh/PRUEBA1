@@ -11,3 +11,7 @@ SE VA A HACER LA PRUEBA DE UN REPORTE EL GITHUB
 ```
 Hola ¿Cómo estas?
 ```
+
+*Cursiva*
+
+**Negrita**
