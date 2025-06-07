@@ -8,6 +8,6 @@ SE VA A HACER LA PRUEBA DE UN REPORTE EL GITHUB
 
 ![](https://github.com/AdrianSalasCh/PRUEBA1/blob/main/automatizaci%C3%B3n-industrial.jpg)
 
-´´´
+```
 Hola ¿Cómo estas?
-´´´
+```
